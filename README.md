@@ -4,7 +4,7 @@ Baseline is provided by Ozyegin University CS 202: Database Management Systems c
 This program is a course project prepared by Deniz Yeniceri and Emre Kenar.
 
 How to use:
-Create a local MySQL database with username="root" and password="password0" (specified in configurations/Database)
+Create a local MySQL database with schema name="library", username="root" and password="password0" (specified in configurations/Database)
 Run the .sql files in src/database folder.
 Run Group13CS202ProjectApplication.java file.
 Open the link "localhost:8080" from a browser and start using.
